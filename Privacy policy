@@ -21,13 +21,13 @@ Link to privacy policy of third party service providers used by the app
     Google Analytics for Firebase
     Firebase Crashlytics
     Facebook
-    Stripe payment sdk // Issue of stripe sdk
-    Razorpay payment sdk
+    Stripe payment sdk // Issue of stripe sdk removed
+    Razorpay payment sdk // removed
     
     ----------------------------------------Issue resolved ----------------------------------------------------------
     
     we collect data like mobile number, email id for better user experience. We do not share these data with others.
-    Stripe sdk is used for transaction.
+    Stripe sdk is used for transaction is removed and there is no applications insalled in app.
     
     We follow the rules and privacy policy of Google play 
 
